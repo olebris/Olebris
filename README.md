@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Olivier Le Bris</h1>
 <h3 align="center">Offensive Cybersecurity Enthusiast</h3>
 
