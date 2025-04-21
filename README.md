@@ -19,9 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olebris&show_icons=true&locale=en&layout=compact" alt="olebris" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olebris&show_icons=true&locale=en" alt="olebris" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolevf&show_icons=true&locale=en" alt="olebris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olebris&" alt="olebris" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dolevf&" alt="olebris" /></p>
 
 <!--
 **olebris/Olebris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
