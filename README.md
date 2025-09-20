@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,docker,git,python,linux,rust,js,html,php,nginx,mysql,postgres,mongodb,grafana,redis,sqlite" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=ai,bash,docker,git,python,linux,rust,js,html,php,nginx,mysql,postgres,mongodb,grafana,redis,sqlite" alt="Skill Icons" />
 </p>
 
 <br>
