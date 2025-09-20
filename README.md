@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://storage.googleapis.com/bitly-image-upload/Ip55kY72bk7" alt="Olivier Le Bris - Avatar" width="120" style="border-radius: 50%; border: 2px solid #DBE0EB;" />
-</p>
 
-<h2 align="center" style="font-family: Lato, Arial, sans-serif; font-weight: bold;">Olivier LE BRIS</h2>
-<p align="center"><em>Offensive Cybersecurity Enthusiast</em></p>
-
-<br>
 
 <p align="center">
   <a href="https://tryhackme.com/p/OlivierLB" title="TryHackMe" target="_blank">
