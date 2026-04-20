@@ -99,6 +99,6 @@
   <img src="https://img.shields.io/badge/Rust-ff4800?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-353535?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20code-20e3e6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20code-ed6c02?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini%20CLI-03dac6?style=for-the-badge" />
 </p>
