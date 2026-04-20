@@ -1,7 +1,7 @@
 
 ## <img src="https://img.shields.io/badge/-Personal projects -222831?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Home" />
 <p>
-<img src="https://img.shields.io/badge/OSCP Certification Training-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Cybersecurity Certification Training-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Work on my Homelab-4b4de2?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Stuff with Claude-fca121?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
 </p>
