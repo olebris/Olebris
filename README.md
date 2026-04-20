@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/SSDLC-4e54c8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitLab-fca121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/SAST-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAST-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SBOM-0f6efd?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCVE-0e0e0e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dependency%20Track-87c540?style=for-the-badge" />
