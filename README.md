@@ -1,8 +1,9 @@
 
-## <img src="https://img.shields.io/badge/-At home -222831?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Home" />
+## <img src="https://img.shields.io/badge/-Personal projects -222831?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Home" />
 <p>
 <img src="https://img.shields.io/badge/OSCP Certification Training-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Work on my Homelab-4b4de2?style=for-the-badge&logo=kali-linux&logoColor=white" />  
+<img src="https://img.shields.io/badge/Work on my Homelab-4b4de2?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Stuff with Claude-4b4de2?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
 </p>
 
 ---
@@ -62,7 +63,7 @@
 ## <img src="https://img.shields.io/badge/-Blue%20Team Knowledge-222831?style=for-the-badge&logo=wireshark&logoColor=white" alt="Blue Team" />
 
 <p>
-  <img src="https://img.shields.io/badge/SDLC-4e54c8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/S-SDLC-4e54c8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitLab-fca121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/SAST-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SBOM-0f6efd?style=for-the-badge" />
@@ -112,5 +113,4 @@
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20code-20e3e6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini%20CLI-03dac6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Copilot-20e3e6?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
